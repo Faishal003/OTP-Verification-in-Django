@@ -1,18 +1,20 @@
 # Email-OTP-Verification-in-Django
-Email base send OTP and verify the user based on Django Framework.
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/744224399/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/week.md) ![Static Badge](https://img.shields.io/badge/python-3.10-blue?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F) ![Static Badge](https://img.shields.io/badge/django-5.0-orange)<br>
+The email base sends OTP and verifies the user based on the Django Framework.
 # 💥Features Included💥
 * Create an account.
-* An otp send to your email.
+* An OTP is sent to your email.
+* The verification link is valid for one minute.
 * Verify User.
-* Then login that user.
-* Add try catch funtionality.
+* Then log in to that user.
+* Add try-catch functionality.
 # Clone the Repository
 After installing the prerequisite files just clone the project:<br>
 ```
 https://github.com/Faishal003/Email-OTP-Verification-in-Django.git
 ```
 # Installation
-**Note :** Make sure you have Python version 3.10.x 👈<br>
+**Note:** Make sure you have Python version 3.10.x 👈<br>
 Install a few prerequisite files before running the project 👀<br>
 ```
 pip install -r requirements.txt 
@@ -32,7 +34,7 @@ python manage.py makemigrations
 # Getting started to run the server
 Run command in terminal:<br>
 Execute: `python manage.py runserver`<br>
-Open up a browser and visit: <span style="color: blue;">http://127.0.0.1:8000/</span> , the you will see the Website💥❤️.<br>
+Open up a browser and visit: <span style="color: blue;">http://127.0.0.1:8000/</span> , then you will see the Website💥❤️.<br>
 All Set! 🤩🔥
 # Note
-In settings.py file, use your personal email and password. Make sure you have enabled two factor authentication and create an app password in your gmail account.
+In the settings.py file, use your email and password. Make sure you have enabled two-factor authentication and create an app password in your Gmail account.
