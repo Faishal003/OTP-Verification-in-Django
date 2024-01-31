@@ -1,5 +1,5 @@
 # Email-OTP-Verification-in-Django
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/744224399/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/744224399/week.md) ![Static Badge](https://img.shields.io/badge/python-3.10-blue?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F) ![Static Badge](https://img.shields.io/badge/django-5.0-orange)<br>
+![Static Badge](https://img.shields.io/badge/python-3.10-blue?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F) ![Static Badge](https://img.shields.io/badge/django-5.0-orange)<br>
 The email base sends OTP and verifies the user based on the Django Framework.
 # 💥Features Included💥
 * Create an account.
